@@ -1,0 +1,8 @@
+curl -X GET "http://localhost:5601/api/kibana/dashboards/export?dashboard=7b685300-3daa-11e9-aae1-651b2f1a1e7a" -H 'kbn-xsrf: true'
+
+git commit (commits changes to te branches)
+git checkout -b <branch_name>
+
+got branch bugfix
+git checkout bugFix
+git merge master
