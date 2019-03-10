@@ -5,4 +5,4 @@ git checkout -b <branch_name>
 
 got branch bugfix
 git checkout bugFix
-git merge master
+git merge master 
